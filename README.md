@@ -14,4 +14,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-ijaz&layout=compact&theme=radical)
 
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mariam-ijaz&theme=gradient)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariam-ijaz&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-ijaz&layout=compact&theme=default)
