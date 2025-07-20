@@ -14,4 +14,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-ijaz&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamijaz&layout=compact&theme=gradient
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamijaz&layout=compact&theme=gradient)
