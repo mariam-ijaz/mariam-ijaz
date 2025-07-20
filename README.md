@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariam Ijaz</h1>
 <h3 align="center">A passionate Full Passionate Full Stack Web Developer and Programmer from Pakistan</h3>
+<img src="![github](https://github.com/user-attachments/assets/b4b025c6-8d05-475a-9e55-7e3ffb2f35be)  align="center"
+" width="200"/>
 
 - 📫 How to reach me **mariamijaz34@gmail.com**
 - 📫 How to reach me **https://www.linkedin.com/in/mariam-ijaz**
