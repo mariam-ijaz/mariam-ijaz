@@ -14,3 +14,6 @@
 [My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariam-ijaz&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-ijaz&layout=compact&theme=radical)
+![MY  GitHub Stats](https://github-readme-stats.vercel.app/api?username=zubair123dev&show_icons=true&theme=gradient&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamijaz&layout=compact&theme=gradient
