@@ -1,7 +1,16 @@
-## Hi there 👋
+                                                         Hi 👋, I'm Mariam Ijaz
+                                         A passionate Full Stack Web Developer and Programmer from Pakistan
+
+. 🌱 I’m currently pursuing a BS in Lahore College For Women University.
+
+.  📫 How to reach me: zubairjaved1014@gmail.com
+
+                                                       Languages and Tools
+arduino bootstrap c cplusplus csharp css3 dart dotnet express firebase flutter git html5 javascript linux mongodb mssql mysql nodejs postman python qt react redux sass tailwind
+
 
 <!--
-**mariam-ijaz/mariam-ijaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*mariam-ijaz/mariam-ijaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
